@@ -401,6 +401,11 @@ h6,
         padding: 10px 0;
     }
 }
+.surya{
+    display: inline;
+    
+    
+}
 #logo{
     width: 100px;
 }
@@ -426,6 +431,9 @@ h6,
     .carousel-caption h5 {
         font-size: 14px;
         font-weight: 500 !important;
+    }
+    .surya{
+        display: none;
     }
     #logo{
         width: 100px;
@@ -466,6 +474,7 @@ h6,
         margin-top: -90px;
         z-index: 1;
     }
+    
     #logo{
         width: 100px;
     }
